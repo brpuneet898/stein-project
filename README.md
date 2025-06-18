@@ -4,7 +4,7 @@ This repo contains a clean, minimal implementation of Stein Variational Gradient
 
 ---
 
-## 🧪 Tests Included
+## Tests Included
 
 ### 1. 2-Component Gaussian Mixture
 - Demonstrates SVGD approximating a multimodal distribution.
@@ -17,7 +17,7 @@ This repo contains a clean, minimal implementation of Stein Variational Gradient
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 - Particle evolution plots for SVGD
 - Histogram of posterior predictive probabilities
@@ -25,7 +25,7 @@ This repo contains a clean, minimal implementation of Stein Variational Gradient
 
 ---
 
-## 🛠 Dependencies
+## Dependencies
 
 Run on [Google Colab](https://colab.research.google.com) or locally with:
 
