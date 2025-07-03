@@ -7,10 +7,12 @@ This repo contains a clean, minimal implementation of Stein Variational Gradient
 ## Tests Included
 
 ### 1. 2-Component Gaussian Mixture
+
 - Demonstrates SVGD approximating a multimodal distribution.
 - Plots particle evolution from a single cloud to two modes.
 
 ### 2. Bayesian Logistic Regression
+
 - Dataset: UCI Breast Cancer Wisconsin
 - SVGD approximates the posterior over logistic weights.
 - Compared with Hamiltonian Monte Carlo (via PyMC).
@@ -32,3 +34,10 @@ Run on [Google Colab](https://colab.research.google.com) or locally with:
 ```bash
 pip install jax jaxlib matplotlib seaborn scikit-learn arviz pymc
 ```
+
+## clone
+
+git clone …
+cd stein-project
+pip install -r requirements.txt
+jupyter notebook notebooks/gaussian_svgd.ipynb
