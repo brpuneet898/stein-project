@@ -1,5 +1,7 @@
 # Minimal SVGD in JAX
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/brpuneet898/stein-project/blob/main/gaussian_SVGD.ipynb)
+
 This repo contains a clean, minimal implementation of Stein Variational Gradient Descent (SVGD) using [JAX](https://github.com/google/jax). It includes two common Bayesian inference examples.
 
 ---
@@ -41,3 +43,7 @@ git clone …
 cd stein-project
 pip install -r requirements.txt
 jupyter notebook notebooks/gaussian_svgd.ipynb
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
