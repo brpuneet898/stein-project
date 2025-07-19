@@ -1,9 +1,1 @@
-jax
-jaxlib
-matplotlib
-seaborn
-scikit-learn
-arviz
-pymc
-aesara
-statsmodels
+numpy
