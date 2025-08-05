@@ -40,7 +40,7 @@ pip install jax jaxlib matplotlib seaborn scikit-learn arviz pymc
 ## clone
 
 ```bash
-git clone …
+git clone https://github.com/brpuneet898/stein-project
 cd stein-project
 pip install -r requirements.txt
 jupyter notebook notebooks/gaussian_svgd.ipynb
