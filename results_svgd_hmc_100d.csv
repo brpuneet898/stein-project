@@ -1,0 +1,3 @@
+method,n_particles,time_sec,ess,ess_per_sec,peak_rss_bytes
+SVGD,20,0.437159538,,,437805056
+HMC,,51.82857728,2.115717519,0.040821447,428183552
